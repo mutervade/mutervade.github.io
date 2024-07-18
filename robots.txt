@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mutervade.github.io/sitemap
+Sitemap: https://mutervade.github.io/app/sitemap
+Sitemap: https://mutervade.github.io/assets/sitemap
+Sitemap: https://mutervade.github.io/css/sitemap
+Sitemap: https://mutervade.github.io/includes/sitemap
+Sitemap: https://mutervade.github.io/item/sitemap
+Sitemap: https://mutervade.github.io/src/sitemap
